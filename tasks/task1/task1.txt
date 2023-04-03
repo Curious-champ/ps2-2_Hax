@@ -1,0 +1,3 @@
+echo "Welcome to project school" > file1.txt
+echo "Cyber security is cool" >> file1.txt
+host google.com | grep ^"google.com has address" | grep -P -o "(\d+.)+\d+" >>file1.txt
