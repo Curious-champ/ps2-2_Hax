@@ -1,4 +1,8 @@
-Q. Extract the key from the given file (key.txt).
+Q. 
+  Extract the key from the given file (key.txt).
 
 A.
-grep -P -o "[^_\W]" key.txt | tr -d "\n"
+  grep -P -o "[^_\W]" key.txt | tr -d "\n"
+
+Output.
+  PKey2030115bd38485e8b352f60f2b90f8a932ad0e95
