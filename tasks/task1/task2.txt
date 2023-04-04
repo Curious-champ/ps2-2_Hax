@@ -1,4 +1,4 @@
-Q. Extract the key from the given file.
+Q. Extract the key from the given file (key.txt).
 
 A.
 grep -P -o "[^_\W]" key.txt | tr -d "\n"
