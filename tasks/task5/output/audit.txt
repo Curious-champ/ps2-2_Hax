@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Tue Apr 11 14:29:00 2023
+Invocation: foremost find_the_key.gif 
+Output directory: /mnt/c/Users/Mohammad Arshad Ali/Desktop/Programming_not_dropbox/Programming/Kmit/linux_wsl/find_key_image/output
+Configuration file: /etc/foremost.conf
+------------------------------------------------------------------
+File: find_the_key.gif
+Start: Tue Apr 11 14:29:00 2023
+Length: 2 KB (2538 bytes)
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00000000.gif 	       2 KB 	          0 	  (332 x 81)
+1:	00000004.zip 	      187 B 	       2351 	 
+Finish: Tue Apr 11 14:29:00 2023
+
+2 FILES EXTRACTED
+	
+gif:= 1
+zip:= 1
+------------------------------------------------------------------
+
+Foremost finished at Tue Apr 11 14:29:01 2023
