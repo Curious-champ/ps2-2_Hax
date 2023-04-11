@@ -1,0 +1,9 @@
+xxd find_the_key.gif
+foremost find_the_key.gif
+ls output/zip
+unzip output/zip/00000004.zip
+cat key.txt
+
+
+
+key--- 4994905d3464eb4e28cb9ab348efd97055cc54ec
