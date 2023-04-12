@@ -1,1 +1,10 @@
-find the password to access the application bin.exe.
+Q.find the password to access the application bin.exe.
+
+A.
+
+-The hexadecimal string at the end of the machine code for bin.exe was converted into ASCII, using an online converter.
+-The resultant string is then decoded using base64.
+-The result is a morse code like string, which when decoded using an online converter, giver the key.
+
+Key.
+LSOLFKQWELMSOLOFRKLWNGSNVKJWEKJRQNCSDJFKWERFKWCKSNKMSDKFSDLM
